@@ -11,7 +11,7 @@ function selectSeat(seatId) {
       seatElement.classList.remove('bg-gray-100');
       seatElement.classList.add('bg-green-500', 'text-white');
     } else {
-      alert('You can only select a maximum of 4 seats.');
+      alert('R dewya jabe na bro');
     }
   }
 }

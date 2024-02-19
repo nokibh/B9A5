@@ -116,7 +116,9 @@ for (const item of items) {
       totalSelectedSeat();
       seatPriceCount();
     } else {
-      alert('You can only select a maximum of 4 seats.');
+      alert(
+        'এই বেটা সাবধান!!! দুইনাম্বারি করতে আসছস এখানে , পুলিস কি ডাকবো???!.'
+      );
     }
   });
 }
